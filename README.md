@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Já Aprendido
+### 🛠️ Já Aprendido
 
 ### Frontend
 
