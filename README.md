@@ -1,4 +1,4 @@
-# Olá 😄, Meu nome é Arthur!
+# Olá, Meu nome é Arthur!
 
 🚀 **Estudante de programação, se esforçando para poder se tornar um programador profissional!**
 
